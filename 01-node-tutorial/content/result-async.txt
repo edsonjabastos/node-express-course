@@ -1,0 +1,1 @@
+Here is the result of async test: Hello, i'm first. <=> Hi, i'm second!
