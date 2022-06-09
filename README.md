@@ -12,5 +12,5 @@
 ***
 ## async patterns
 ***
-## sync patterns
+## [x]sync patterns
 ***
